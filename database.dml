@@ -1,0 +1,11 @@
+-- change the database to your team id
+use MLP335;
+
+
+
+insert into MENU values(101,'Biryani',100);
+insert into CUSTOMER values('475','Amrutha',9010252402,'chennai,siruseri','VenkatasaiamruthaA@hexaware.com');
+
+insert into VENDOR values('VD001','Sruthi','475');
+
+
